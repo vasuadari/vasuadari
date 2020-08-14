@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**vasuadari/vasuadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on [elixir](https://github.com/elixir-lang/elixir)
 - 🌱 I’m currently learning [rust](https://github.com/rust-lang/rust)
 - 👯 I’m looking to collaborate on ruby, elixir, rust, bash or terraform
