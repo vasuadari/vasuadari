@@ -1,3 +1,11 @@
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Code Beam V STO 2020 Conference Discount code
+
+```
+FriendOFmine1011IX
+```
+
+Check [here](https://codesync.global/conferences/code-beam-sto/) schedule for interesting talks.
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [elixir](https://github.com/elixir-lang/elixir)
