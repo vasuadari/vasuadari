@@ -10,9 +10,8 @@ Follow us on
 
 **Repositories used in this talk:**
 
-https://github.com/vasuadari/hello-world
-
-https://github.com/vasuadari/hello-world-terraform
+1. https://github.com/vasuadari/hello-world
+2. https://github.com/vasuadari/hello-world-terraform
 
 Will share the final deck soon here.
 
