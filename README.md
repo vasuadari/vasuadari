@@ -7,8 +7,9 @@ Follow us on
 
 **Repositories used in this talk:**
 
-1. https://github.com/vasuadari/hello-world
-2. https://github.com/vasuadari/hello-world-terraform
+1. [Undo Distillery](https://github.com/HarshBalyan/undo-distillery-demo)
+2. [Hello World](https://github.com/vasuadari/hello-world/tree/elixir)
+3. [Hello World Terraform Scripts](https://github.com/vasuadari/hello-world-terraform)
 
 Will share the final deck soon here.
 
