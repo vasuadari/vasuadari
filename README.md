@@ -1,12 +1,8 @@
 ## Code Beam V STO 2020
 
 ### Deploying Elixir on Docker
----
-
 Follow us on
-
-**Twitter** at [#vasuadari](https://twitter.com/vasuadari), [#scripbox](https://twitter.com/scripbox)
-
+**Twitter** at [#vasuadari](https://twitter.com/vasuadari), [#scripbox](https://twitter.com/scripbox) and
 **Github** at [@HarshBalyan](https://github.com/HarshBalyan), [@scripbox](https://github.com/scripbox)
 
 **Repositories used in this talk:**
