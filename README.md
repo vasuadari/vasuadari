@@ -1,12 +1,22 @@
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Code Beam V STO 2020 Conference Discount code
+## Code Beam V STO 2020
 
-```
-FriendOFmine1011IX
-```
+### Deploying Elixir on Docker
 
-Check [here](https://codesync.global/conferences/code-beam-sto/) schedule for interesting talks.
+Follow us on
 
-### Hi there 👋
+**twitter** at [#vasuadari](https://twitter.com/vasuadari), [#scripbox](https://twitter.com/scripbox)
+
+**github** at [@HarshBalyan](https://github.com/HarshBalyan), [@scripbox](https://github.com/scripbox)
+
+**Repositories used in this talk:**
+
+https://github.com/vasuadari/hello-world
+
+https://github.com/vasuadari/hello-world-terraform
+
+Will share the final deck soon here.
+
+## Hi there 👋
 
 - 🔭 I’m currently working on [elixir](https://github.com/elixir-lang/elixir)
 - 🌱 I’m currently learning [rust](https://github.com/rust-lang/rust)
