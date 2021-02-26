@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- Working on [elixir](https://github.com/elixir-lang/elixir)
-- Learning [rust](https://github.com/rust-lang/rust)
-- Looking to collaborate on ruby, elixir, rust, bash or terraform
+I'm currently working on [elixir](https://github.com/elixir-lang/elixir). Try to learning [rust](https://github.com/rust-lang/rust). Would be interested in collaborating in ruby, elixir, rust, bash, terraform or something exciting :)
 
 ## Talks
 
