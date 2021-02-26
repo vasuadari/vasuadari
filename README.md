@@ -1,23 +1,15 @@
-## Code Beam V STO 2020
-
-### Deploying Elixir on Docker
-Follow us on
-**Twitter** at [#vasuadari](https://twitter.com/vasuadari), [#scripbox](https://twitter.com/scripbox) and
-**Github** at [@HarshBalyan](https://github.com/HarshBalyan), [@scripbox](https://github.com/scripbox)
-
-**Repositories used in this talk:**
-
-1. [Undo Distillery](https://github.com/HarshBalyan/undo-distillery-demo)
-2. [Hello World](https://github.com/vasuadari/hello-world/tree/elixir)
-3. [Hello World Terraform Scripts](https://github.com/vasuadari/hello-world-terraform)
-
-Will share the final deck soon here.
-
 ## Hi there 👋
 
-- 🔭 I’m currently working on [elixir](https://github.com/elixir-lang/elixir)
-- 🌱 I’m currently learning [rust](https://github.com/rust-lang/rust)
-- 👯 I’m looking to collaborate on ruby, elixir, rust, bash or terraform
+- 🔭 Working on [elixir](https://github.com/elixir-lang/elixir)
+- 🌱 Learning [rust](https://github.com/rust-lang/rust)
+- 👯 Looking to collaborate on ruby, elixir, rust, bash or terraform
+
+## Talks
+
+[Deploying Elixir on Docker](https://www.youtube.com/watch?v=J3ThPMKDeKQ&feature=emb_logo)
+  * [Undo Distillery](https://github.com/HarshBalyan/undo-distillery-demo)
+  * [Hello World](https://github.com/vasuadari/hello-world/tree/elixir)
+  * [Hello World Terraform Scripts](https://github.com/vasuadari/hello-world-terraform)
 <!---
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
